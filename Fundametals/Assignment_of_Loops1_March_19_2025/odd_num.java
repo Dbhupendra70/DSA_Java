@@ -1,3 +1,5 @@
+// 1. Print all the odd numbers from 1 to 100.
+
 class odd_num{
     public static void main(String [] args ) {
         int max_limit = 100 ;
