@@ -1,3 +1,5 @@
+package GeekForGeek.Medium;
+
 class Solution {
     private static int toSeconds(String time) {
         int h = Integer.parseInt(time.substring(0, 2));

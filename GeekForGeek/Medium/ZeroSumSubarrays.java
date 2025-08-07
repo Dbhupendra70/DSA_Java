@@ -1,3 +1,5 @@
+package GeekForGeek.Medium;
+
 import java.util.HashMap;
 import java.util.Map;
 
